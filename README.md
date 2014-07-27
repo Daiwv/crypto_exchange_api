@@ -1,5 +1,6 @@
 cryptocoin-tradelib
 ===================
 
-cryptocoin-tradelib is a Java library implementing most popular cryptocurrencies websites APIs
+Java library 
+implementing most popular cryptocurrencies websites APIs
 For Website API, look under Modules
